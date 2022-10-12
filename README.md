@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 
 - 🔭 I’m currently working at Straumann Group as a Data Science Intern since August/2022.
-- 🌱 I’m at the 7th semester of 9, coursing Statistics at UFPR. 
+- 🌱 I’m starting the 8th semester of 9, coursing Statistics at UFPR at Curitiba/Paraná. 
 - 👯 I'm currently studying: 
   - Machine Learning: Classifiers Models, Unbalanced Data Frameworks, Survival Models, Multivariable Models.
   - The Business: As required, I'm working on Churn Predicition, learning the Ortho Sales Business is essential
