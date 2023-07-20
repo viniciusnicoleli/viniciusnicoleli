@@ -17,7 +17,7 @@ ________________________________________________________________________________
 
 
 - 🔭 I’m currently working at EBANX as a Data Analyst since Dec/2022.
-- 🌱 I’m finishing my final paper, coursing Statistics at UFPR at Curitiba/Paraná. 
+- 🌱 I’m graduated in Statistics at UFPR. 
 - 👯 I'm currently studying: 
   - Machine Learning: Classifiers Models, Unbalanced Data Frameworks, Survival Models, Multivariable Models.
   - The Business: As required, I'm working on Churn Predicition.
