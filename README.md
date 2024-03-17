@@ -16,12 +16,12 @@ ________________________________________________________________________________
 ### About me:
 
 
-- 🔭 I’m currently working at EBANX as a Data Analyst since Dec/2022.
+- 🔭 I’m currently working at Paraná Bank as a Data Scientist since Dec/2023.
 - 🌱 I’m graduated in Statistics at UFPR. 
 - 👯 I'm currently studying: 
-  - Machine Learning: Classifiers Models, Unbalanced Data Frameworks, Survival Models, Multivariable Models.
-  - The Business: As required, I'm working on Churn Predicition.
-  - Others: Feature Engeneering, Frameworks for Exploratory Analysis.
+  - Itaú Data Scientist certification.
+  - Azure Fundamentals.
+  - Azure Data Science Professional.
           
 - 🤔 At the moment, I'm building some Cases to testify my development, feel free to check it out my notebooks.
 - 📫 How to reach me: Feel free to get in toucn with me by Linkedin or E-mail!
